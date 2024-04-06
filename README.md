@@ -1,4 +1,5 @@
 Drop rbxmx file into plugins folder V
 
 
-![image](https://github.com/cajunphoenix/Animation-Spoofer-V2/assets/39899968/760efb22-462c-4e56-9889-99c2db97cd80)
+![image](https://github.com/cajunphoenix/Animation-Spoofer-V2/assets/39899968/f10c2d5a-5e71-4b2d-8311-236357d2b0f7)
+
